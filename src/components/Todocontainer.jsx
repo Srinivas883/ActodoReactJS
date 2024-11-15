@@ -6,14 +6,7 @@ function Todocontainer() {
 
 
     const [activityarr, activityarrst] = useState([
-        {
-            id: 1,
-            activity: "Go for a walk"
-        },
-        {
-            id: 2,
-            activity: "Read Book for 15mins"
-        }
+
     ])
 
 

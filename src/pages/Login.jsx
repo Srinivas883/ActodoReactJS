@@ -6,8 +6,8 @@ function Login(props) {
 
     const navigate = useNavigate()
 
-    const [eusername, setEusername] = useState("John")
-    const [epassword, setEpassword] = useState("123")
+    const [eusername, setEusername] = useState("")
+    const [epassword, setEpassword] = useState("")
     const [ruser, setruser] = useState(true)
 
     const users = props.users

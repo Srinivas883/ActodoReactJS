@@ -5,7 +5,7 @@
 
 **Actodo** is a task management app designed to help users organize their activities. The app ensures user security by requiring a login before accessing its features, offering basic task management functionalities.
 
-**Vercel Link** https://actodo-react-js-gilt.vercel.app/landing
+**Vercel Link** https://actodo-react-js-gilt.vercel.app
 ---
 
 ## Features  
